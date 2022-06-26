@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Projeto Move.it - React JS
 
-## Getting Started
+Esse projeto tem como finalidade construir a interface de um **Cronômetro** utilizando a aplicação da **Téncica de Pomodoro** que consiste no gerenciamento de tempo em períodos de 25 minutos. Sendo esta, uma técnica muito utilizada para se exercitar entre ciclos de estudos ou de trabalho.
 
-First, run the development server:
+Como diferencial, foram utilizados: o framework Next, a ContextAPI do React, a linguagem TypeScript e o Deploy através da plataforma Vercel.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Esse projeto consiste em uma semana de imersão em REACT.JS conhecida como **[Next Level Week](https://nextlevelweek.com/)** - 4° edição, proposta pela escola de educação em tecnologia **[@Rocketseat](https://www.rocketseat.com.br/)**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Nessa semana de imersão, foram trabalhados conceitos básicos aos avançados da biblioteca React como: a criação do projeto, components, propriedades, estado, styles, props, children, pages, hooks, custom hooks, routes, entre outras funcionalidades.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 💻 Como iniciar o projeto:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+**É possivel visualizar o projeto online na Vercel:** [Link Vercel](https://vercel.com/camila-kunitz/moveit);+
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Alternativamente:
 
-## Learn More
+- Clone o projeto;
+- Na pasta do projeto, rode o comando `npm install` para instalar os pacotes necessários para o projeto;
+- Em seguida, rode o comando `npm run dev` para iniciar o projeto React;
+- O projeto então pode ser acessado no endereço `http://localhost:3000/`.
 
-To learn more about Next.js, take a look at the following resources:
+> Para testar a aplicação, o intervalo de 25 min foi substituído por 5 seg.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🕒 Funcionalidades da aplicação

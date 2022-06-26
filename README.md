@@ -10,7 +10,7 @@ Nessa semana de imersão, foram trabalhados conceitos básicos aos avançados da
 
 ## 💻 Como iniciar o projeto:
 
-**É possivel visualizar o projeto online na Vercel:** [Link Vercel](https://vercel.com/camila-kunitz/moveit);+
+**É possivel visualizar o projeto online na Vercel:** [Preview: Deploy Vercel](https://moveit-camila-kunitz.vercel.app/);+
 
 Alternativamente:
 
